@@ -53,7 +53,7 @@
   | <URL>/listen | 查看后台监听端口 |
   | <URL>/test   | 测试是否为只读系统 |  
 
-* 前往 [Glitch](https://glitch.com/) 注册账户，然后点击右边按钮 =====> [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/fscarmen2/X-for-Glitch)
+* 前往 [Glitch](https://glitch.com/) 注册账户，然后点击右边按钮 =====> [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/zyh688/X-for-Glitch)
 
 <img width="1092" alt="image" src="https://user-images.githubusercontent.com/92626977/236652842-9f2d644a-f8e3-4b5f-ab7f-45d6309a6642.png">
 
